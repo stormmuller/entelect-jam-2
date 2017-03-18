@@ -1,0 +1,7034 @@
+fileFormatVersion: 2
+guid: 0688f75cd97a3644a94e0ad913aac512
+timeCreated: 1489640813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Adventurer-Limbs-arm
+    21300002: Adventurer-Limbs-body_back
+    21300004: Adventurer-Limbs-body_front
+    21300006: Adventurer-Limbs-hand
+    21300008: Adventurer-Limbs-head
+    21300010: Adventurer-Limbs-head_back
+    21300012: Adventurer-Limbs-head_focus
+    21300014: Adventurer-Limbs-head_hurt
+    21300016: Adventurer-Limbs-leg
+    21300018: Adventurer-Poses-adventurer_action1
+    21300020: Adventurer-Poses-adventurer_action2
+    21300022: Adventurer-Poses-adventurer_back
+    21300024: Adventurer-Poses-adventurer_cheer1
+    21300026: Adventurer-Poses-adventurer_cheer2
+    21300028: Adventurer-Poses-adventurer_climb1
+    21300030: Adventurer-Poses-adventurer_climb2
+    21300032: Adventurer-Poses-adventurer_duck
+    21300034: Adventurer-Poses-adventurer_fall
+    21300036: Adventurer-Poses-adventurer_hang
+    21300038: Adventurer-Poses-adventurer_hold1
+    21300040: Adventurer-Poses-adventurer_hold2
+    21300042: Adventurer-Poses-adventurer_hurt
+    21300044: Adventurer-Poses-adventurer_idle
+    21300046: Adventurer-Poses-adventurer_jump
+    21300048: Adventurer-Poses-adventurer_kick
+    21300050: Adventurer-Poses-adventurer_skid
+    21300052: Adventurer-Poses-adventurer_slide
+    21300054: Adventurer-Poses-adventurer_stand
+    21300056: Adventurer-Poses-adventurer_swim1
+    21300058: Adventurer-Poses-adventurer_swim2
+    21300060: Adventurer-Poses-adventurer_talk
+    21300062: Adventurer-Poses-adventurer_walk1
+    21300064: Adventurer-Poses-adventurer_walk2
+    21300066: bg
+    21300068: bg_castle
+    21300070: Enemies-blockerBody
+    21300072: Enemies-blockerMad
+    21300074: Enemies-blockerSad
+    21300076: Enemies-fishDead
+    21300078: Enemies-fishSwim1
+    21300080: Enemies-fishSwim2
+    21300082: Enemies-flyDead
+    21300084: Enemies-flyFly1
+    21300086: Enemies-flyFly2
+    21300088: Enemies-pokerMad
+    21300090: Enemies-pokerSad
+    21300092: Enemies-slimeDead
+    21300094: Enemies-slimeWalk1
+    21300096: Enemies-slimeWalk2
+    21300098: Enemies-snailShell
+    21300100: Enemies-snailShell_upsidedown
+    21300102: Enemies-snailWalk1
+    21300104: Enemies-snailWalk2
+    21300106: Female-Limbs-arm
+    21300108: Female-Limbs-body_back
+    21300110: Female-Limbs-body_front
+    21300112: Female-Limbs-hand
+    21300114: Female-Limbs-head
+    21300116: Female-Limbs-head_back
+    21300118: Female-Limbs-head_focus
+    21300120: Female-Limbs-head_hurt
+    21300122: Female-Limbs-leg
+    21300124: Female-Poses-female_action1
+    21300126: Female-Poses-female_action2
+    21300128: Female-Poses-female_back
+    21300130: Female-Poses-female_cheer1
+    21300132: Female-Poses-female_cheer2
+    21300134: Female-Poses-female_climb1
+    21300136: Female-Poses-female_climb2
+    21300138: Female-Poses-female_duck
+    21300140: Female-Poses-female_fall
+    21300142: Female-Poses-female_hang
+    21300144: Female-Poses-female_hold1
+    21300146: Female-Poses-female_hold2
+    21300148: Female-Poses-female_hurt
+    21300150: Female-Poses-female_idle
+    21300152: Female-Poses-female_jump
+    21300154: Female-Poses-female_kick
+    21300156: Female-Poses-female_skid
+    21300158: Female-Poses-female_slide
+    21300160: Female-Poses-female_stand
+    21300162: Female-Poses-female_swim1
+    21300164: Female-Poses-female_swim2
+    21300166: Female-Poses-female_talk
+    21300168: Female-Poses-female_walk1
+    21300170: Female-Poses-female_walk2
+    21300172: HUD-hud_0
+    21300174: HUD-hud_1
+    21300176: HUD-hud_2
+    21300178: HUD-hud_3
+    21300180: HUD-hud_4
+    21300182: HUD-hud_5
+    21300184: HUD-hud_6
+    21300186: HUD-hud_7
+    21300188: HUD-hud_8
+    21300190: HUD-hud_9
+    21300192: HUD-hud_coins
+    21300194: HUD-hud_gem_blue
+    21300196: HUD-hud_gem_green
+    21300198: HUD-hud_gem_red
+    21300200: HUD-hud_gem_yellow
+    21300202: HUD-hud_heartEmpty
+    21300204: HUD-hud_heartFull
+    21300206: HUD-hud_heartHalf
+    21300208: HUD-hud_keyBlue
+    21300210: HUD-hud_keyBlue_disabled
+    21300212: HUD-hud_keyGreem_disabled
+    21300214: HUD-hud_keyGreen
+    21300216: HUD-hud_keyRed
+    21300218: HUD-hud_keyRed_disabled
+    21300220: HUD-hud_keyYellow
+    21300222: HUD-hud_keyYellow_disabled
+    21300224: HUD-hud_p1
+    21300226: HUD-hud_p1Alt
+    21300228: HUD-hud_p2
+    21300230: HUD-hud_p2Alt
+    21300232: HUD-hud_p3
+    21300234: HUD-hud_p3Alt
+    21300236: HUD-hud_x
+    21300238: Items-bomb
+    21300240: Items-bombFlash
+    21300242: Items-bush
+    21300244: Items-buttonBlue
+    21300246: Items-buttonBlue_pressed
+    21300248: Items-buttonGreen
+    21300250: Items-buttonGreen_pressed
+    21300252: Items-buttonRed
+    21300254: Items-buttonRed_pressed
+    21300256: Items-buttonYellow
+    21300258: Items-buttonYellow_pressed
+    21300260: Items-cactus
+    21300262: Items-chain
+    21300264: Items-cloud1
+    21300266: Items-cloud2
+    21300268: Items-cloud3
+    21300270: Items-coinBronze
+    21300272: Items-coinGold
+    21300274: Items-coinSilver
+    21300276: Items-fireball
+    21300278: Items-flagBlue
+    21300280: Items-flagBlue2
+    21300282: Items-flagBlueHanging
+    21300284: Items-flagGreen
+    21300286: Items-flagGreen2
+    21300288: Items-flagGreenHanging
+    21300290: Items-flagRed
+    21300292: Items-flagRed2
+    21300294: Items-flagRedHanging
+    21300296: Items-flagYellow
+    21300298: Items-flagYellow2
+    21300300: Items-flagYellowHanging
+    21300302: Items-gemBlue
+    21300304: Items-gemGreen
+    21300306: Items-gemRed
+    21300308: Items-gemYellow
+    21300310: Items-keyBlue
+    21300312: Items-keyGreen
+    21300314: Items-keyRed
+    21300316: Items-keyYellow
+    21300318: Items-mushroomBrown
+    21300320: Items-mushroomRed
+    21300322: Items-particleBrick1a
+    21300324: Items-particleBrick1b
+    21300326: Items-particleBrick2a
+    21300328: Items-particleBrick2b
+    21300330: Items-plant
+    21300332: Items-plantPurple
+    21300334: Items-rock
+    21300336: Items-snowhill
+    21300338: Items-spikes
+    21300340: Items-springboardDown
+    21300342: Items-springboardUp
+    21300344: Items-star
+    21300346: Items-switchLeft
+    21300348: Items-switchMid
+    21300350: Items-switchRight
+    21300352: Items-weight
+    21300354: Items-weightChained
+    21300356: Player-Limbs-arm
+    21300358: Player-Limbs-body_back
+    21300360: Player-Limbs-body_front
+    21300362: Player-Limbs-hand
+    21300364: Player-Limbs-head
+    21300366: Player-Limbs-head_back
+    21300368: Player-Limbs-head_focus
+    21300370: Player-Limbs-head_hurt
+    21300372: Player-Limbs-leg
+    21300374: Player-p1_duck
+    21300376: Player-p1_front
+    21300378: Player-p1_hurt
+    21300380: Player-p1_jump
+    21300382: Player-p1_stand
+    21300384: Player-p1_walk-PNG-p1_walk01
+    21300386: Player-p1_walk-PNG-p1_walk02
+    21300388: Player-p1_walk-PNG-p1_walk03
+    21300390: Player-p1_walk-PNG-p1_walk04
+    21300392: Player-p1_walk-PNG-p1_walk05
+    21300394: Player-p1_walk-PNG-p1_walk06
+    21300396: Player-p1_walk-PNG-p1_walk07
+    21300398: Player-p1_walk-PNG-p1_walk08
+    21300400: Player-p1_walk-PNG-p1_walk09
+    21300402: Player-p1_walk-PNG-p1_walk10
+    21300404: Player-p1_walk-PNG-p1_walk11
+    21300406: Player-p2_duck
+    21300408: Player-p2_front
+    21300410: Player-p2_hurt
+    21300412: Player-p2_jump
+    21300414: Player-p2_stand
+    21300416: Player-p2_walk-PNG-p2_walk01
+    21300418: Player-p2_walk-PNG-p2_walk02
+    21300420: Player-p2_walk-PNG-p2_walk03
+    21300422: Player-p2_walk-PNG-p2_walk04
+    21300424: Player-p2_walk-PNG-p2_walk05
+    21300426: Player-p2_walk-PNG-p2_walk06
+    21300428: Player-p2_walk-PNG-p2_walk07
+    21300430: Player-p2_walk-PNG-p2_walk08
+    21300432: Player-p2_walk-PNG-p2_walk09
+    21300434: Player-p2_walk-PNG-p2_walk10
+    21300436: Player-p2_walk-PNG-p2_walk11
+    21300438: Player-p3_duck
+    21300440: Player-p3_front
+    21300442: Player-p3_hurt
+    21300444: Player-p3_jump
+    21300446: Player-p3_stand
+    21300448: Player-p3_walk-PNG-p3_walk01
+    21300450: Player-p3_walk-PNG-p3_walk02
+    21300452: Player-p3_walk-PNG-p3_walk03
+    21300454: Player-p3_walk-PNG-p3_walk04
+    21300456: Player-p3_walk-PNG-p3_walk05
+    21300458: Player-p3_walk-PNG-p3_walk06
+    21300460: Player-p3_walk-PNG-p3_walk07
+    21300462: Player-p3_walk-PNG-p3_walk08
+    21300464: Player-p3_walk-PNG-p3_walk09
+    21300466: Player-p3_walk-PNG-p3_walk10
+    21300468: Player-p3_walk-PNG-p3_walk11
+    21300470: Player-Poses-player_action1
+    21300472: Player-Poses-player_action2
+    21300474: Player-Poses-player_back
+    21300476: Player-Poses-player_cheer1
+    21300478: Player-Poses-player_cheer2
+    21300480: Player-Poses-player_climb1
+    21300482: Player-Poses-player_climb2
+    21300484: Player-Poses-player_duck
+    21300486: Player-Poses-player_fall
+    21300488: Player-Poses-player_hang
+    21300490: Player-Poses-player_hold1
+    21300492: Player-Poses-player_hold2
+    21300494: Player-Poses-player_hurt
+    21300496: Player-Poses-player_idle
+    21300498: Player-Poses-player_jump
+    21300500: Player-Poses-player_kick
+    21300502: Player-Poses-player_skid
+    21300504: Player-Poses-player_slide
+    21300506: Player-Poses-player_stand
+    21300508: Player-Poses-player_swim1
+    21300510: Player-Poses-player_swim2
+    21300512: Player-Poses-player_talk
+    21300514: Player-Poses-player_walk1
+    21300516: Player-Poses-player_walk2
+    21300518: Soldier-Limbs-arm
+    21300520: Soldier-Limbs-body_back
+    21300522: Soldier-Limbs-body_front
+    21300524: Soldier-Limbs-hand
+    21300526: Soldier-Limbs-head
+    21300528: Soldier-Limbs-head_back
+    21300530: Soldier-Limbs-head_focus
+    21300532: Soldier-Limbs-head_hurt
+    21300534: Soldier-Limbs-leg
+    21300536: Soldier-Poses-soldier_action1
+    21300538: Soldier-Poses-soldier_action2
+    21300540: Soldier-Poses-soldier_back
+    21300542: Soldier-Poses-soldier_cheer1
+    21300544: Soldier-Poses-soldier_cheer2
+    21300546: Soldier-Poses-soldier_climb1
+    21300548: Soldier-Poses-soldier_climb2
+    21300550: Soldier-Poses-soldier_duck
+    21300552: Soldier-Poses-soldier_fall
+    21300554: Soldier-Poses-soldier_hang
+    21300556: Soldier-Poses-soldier_hold1
+    21300558: Soldier-Poses-soldier_hold2
+    21300560: Soldier-Poses-soldier_hurt
+    21300562: Soldier-Poses-soldier_idle
+    21300564: Soldier-Poses-soldier_jump
+    21300566: Soldier-Poses-soldier_kick
+    21300568: Soldier-Poses-soldier_skid
+    21300570: Soldier-Poses-soldier_slide
+    21300572: Soldier-Poses-soldier_stand
+    21300574: Soldier-Poses-soldier_swim1
+    21300576: Soldier-Poses-soldier_swim2
+    21300578: Soldier-Poses-soldier_talk
+    21300580: Soldier-Poses-soldier_walk1
+    21300582: Soldier-Poses-soldier_walk2
+    21300584: Tiles-box
+    21300586: Tiles-boxAlt
+    21300588: Tiles-boxCoin
+    21300590: Tiles-boxCoin_disabled
+    21300592: Tiles-boxCoinAlt
+    21300594: Tiles-boxCoinAlt_disabled
+    21300596: Tiles-boxEmpty
+    21300598: Tiles-boxExplosive
+    21300600: Tiles-boxExplosive_disabled
+    21300602: Tiles-boxExplosiveAlt
+    21300604: Tiles-boxItem
+    21300606: Tiles-boxItem_disabled
+    21300608: Tiles-boxItemAlt
+    21300610: Tiles-boxItemAlt_disabled
+    21300612: Tiles-boxWarning
+    21300614: Tiles-brickWall
+    21300616: Tiles-bridge
+    21300618: Tiles-bridgeLogs
+    21300620: Tiles-castle
+    21300622: Tiles-castleCenter
+    21300624: Tiles-castleCenter_rounded
+    21300626: Tiles-castleCliffLeft
+    21300628: Tiles-castleCliffLeftAlt
+    21300630: Tiles-castleCliffRight
+    21300632: Tiles-castleCliffRightAlt
+    21300634: Tiles-castleHalf
+    21300636: Tiles-castleHalfLeft
+    21300638: Tiles-castleHalfMid
+    21300640: Tiles-castleHalfRight
+    21300642: Tiles-castleHillLeft
+    21300644: Tiles-castleHillLeft2
+    21300646: Tiles-castleHillRight
+    21300648: Tiles-castleHillRight2
+    21300650: Tiles-castleLedgeLeft
+    21300652: Tiles-castleLedgeRight
+    21300654: Tiles-castleLeft
+    21300656: Tiles-castleMid
+    21300658: Tiles-castleRight
+    21300660: Tiles-dirt
+    21300662: Tiles-dirtCenter
+    21300664: Tiles-dirtCenter_rounded
+    21300666: Tiles-dirtCliffLeft
+    21300668: Tiles-dirtCliffLeftAlt
+    21300670: Tiles-dirtCliffRight
+    21300672: Tiles-dirtCliffRightAlt
+    21300674: Tiles-dirtHalf
+    21300676: Tiles-dirtHalfLeft
+    21300678: Tiles-dirtHalfMid
+    21300680: Tiles-dirtHalfRight
+    21300682: Tiles-dirtHillLeft
+    21300684: Tiles-dirtHillLeft2
+    21300686: Tiles-dirtHillRight
+    21300688: Tiles-dirtHillRight2
+    21300690: Tiles-dirtLedgeLeft
+    21300692: Tiles-dirtLedgeRight
+    21300694: Tiles-dirtLeft
+    21300696: Tiles-dirtMid
+    21300698: Tiles-dirtRight
+    21300700: Tiles-door_closedMid
+    21300702: Tiles-door_closedTop
+    21300704: Tiles-door_openMid
+    21300706: Tiles-door_openTop
+    21300708: Tiles-fence
+    21300710: Tiles-fenceBroken
+    21300712: Tiles-grass
+    21300714: Tiles-grassCenter
+    21300716: Tiles-grassCenter_rounded
+    21300718: Tiles-grassCliffLeft
+    21300720: Tiles-grassCliffLeftAlt
+    21300722: Tiles-grassCliffRight
+    21300724: Tiles-grassCliffRightAlt
+    21300726: Tiles-grassHalf
+    21300728: Tiles-grassHalfLeft
+    21300730: Tiles-grassHalfMid
+    21300732: Tiles-grassHalfRight
+    21300734: Tiles-grassHillLeft
+    21300736: Tiles-grassHillLeft2
+    21300738: Tiles-grassHillRight
+    21300740: Tiles-grassHillRight2
+    21300742: Tiles-grassLedgeLeft
+    21300744: Tiles-grassLedgeRight
+    21300746: Tiles-grassLeft
+    21300748: Tiles-grassMid
+    21300750: Tiles-grassRight
+    21300752: Tiles-hill_large
+    21300754: Tiles-hill_largeAlt
+    21300756: Tiles-hill_small
+    21300758: Tiles-hill_smallAlt
+    21300760: Tiles-ladder_mid
+    21300762: Tiles-ladder_top
+    21300764: Tiles-liquidLava
+    21300766: Tiles-liquidLavaTop
+    21300768: Tiles-liquidLavaTop_mid
+    21300770: Tiles-liquidWater
+    21300772: Tiles-liquidWaterTop
+    21300774: Tiles-liquidWaterTop_mid
+    21300776: Tiles-lock_blue
+    21300778: Tiles-lock_green
+    21300780: Tiles-lock_red
+    21300782: Tiles-lock_yellow
+    21300784: Tiles-rockHillLeft
+    21300786: Tiles-rockHillRight
+    21300788: Tiles-ropeAttached
+    21300790: Tiles-ropeHorizontal
+    21300792: Tiles-ropeVertical
+    21300794: Tiles-sand
+    21300796: Tiles-sandCenter
+    21300798: Tiles-sandCenter_rounded
+    21300800: Tiles-sandCliffLeft
+    21300802: Tiles-sandCliffLeftAlt
+    21300804: Tiles-sandCliffRight
+    21300806: Tiles-sandCliffRightAlt
+    21300808: Tiles-sandHalf
+    21300810: Tiles-sandHalfLeft
+    21300812: Tiles-sandHalfMid
+    21300814: Tiles-sandHalfRight
+    21300816: Tiles-sandHillLeft
+    21300818: Tiles-sandHillLeft2
+    21300820: Tiles-sandHillRight
+    21300822: Tiles-sandHillRight2
+    21300824: Tiles-sandLedgeLeft
+    21300826: Tiles-sandLedgeRight
+    21300828: Tiles-sandLeft
+    21300830: Tiles-sandMid
+    21300832: Tiles-sandRight
+    21300834: Tiles-sign
+    21300836: Tiles-signExit
+    21300838: Tiles-signLeft
+    21300840: Tiles-signRight
+    21300842: Tiles-snow
+    21300844: Tiles-snowCenter
+    21300846: Tiles-snowCenter_rounded
+    21300848: Tiles-snowCliffLeft
+    21300850: Tiles-snowCliffLeftAlt
+    21300852: Tiles-snowCliffRight
+    21300854: Tiles-snowCliffRightAlt
+    21300856: Tiles-snowHalf
+    21300858: Tiles-snowHalfLeft
+    21300860: Tiles-snowHalfMid
+    21300862: Tiles-snowHalfRight
+    21300864: Tiles-snowHillLeft
+    21300866: Tiles-snowHillLeft2
+    21300868: Tiles-snowHillRight
+    21300870: Tiles-snowHillRight2
+    21300872: Tiles-snowLedgeLeft
+    21300874: Tiles-snowLedgeRight
+    21300876: Tiles-snowLeft
+    21300878: Tiles-snowMid
+    21300880: Tiles-snowRight
+    21300882: Tiles-stone
+    21300884: Tiles-stoneCenter
+    21300886: Tiles-stoneCenter_rounded
+    21300888: Tiles-stoneCliffLeft
+    21300890: Tiles-stoneCliffLeftAlt
+    21300892: Tiles-stoneCliffRight
+    21300894: Tiles-stoneCliffRightAlt
+    21300896: Tiles-stoneHalf
+    21300898: Tiles-stoneHalfLeft
+    21300900: Tiles-stoneHalfMid
+    21300902: Tiles-stoneHalfRight
+    21300904: Tiles-stoneHillLeft2
+    21300906: Tiles-stoneHillRight2
+    21300908: Tiles-stoneLedgeLeft
+    21300910: Tiles-stoneLedgeRight
+    21300912: Tiles-stoneLeft
+    21300914: Tiles-stoneMid
+    21300916: Tiles-stoneRight
+    21300918: Tiles-stoneWall
+    21300920: Tiles-tochLit
+    21300922: Tiles-tochLit2
+    21300924: Tiles-torch
+    21300926: Tiles-window
+    21300928: Zombie-Limbs-arm
+    21300930: Zombie-Limbs-body_back
+    21300932: Zombie-Limbs-body_front
+    21300934: Zombie-Limbs-hand
+    21300936: Zombie-Limbs-head
+    21300938: Zombie-Limbs-head_back
+    21300940: Zombie-Limbs-head_focus
+    21300942: Zombie-Limbs-head_hurt
+    21300944: Zombie-Limbs-leg
+    21300946: Zombie-Poses-zombie_action1
+    21300948: Zombie-Poses-zombie_action2
+    21300950: Zombie-Poses-zombie_back
+    21300952: Zombie-Poses-zombie_cheer1
+    21300954: Zombie-Poses-zombie_cheer2
+    21300956: Zombie-Poses-zombie_climb1
+    21300958: Zombie-Poses-zombie_climb2
+    21300960: Zombie-Poses-zombie_duck
+    21300962: Zombie-Poses-zombie_fall
+    21300964: Zombie-Poses-zombie_hang
+    21300966: Zombie-Poses-zombie_hold1
+    21300968: Zombie-Poses-zombie_hold2
+    21300970: Zombie-Poses-zombie_hurt
+    21300972: Zombie-Poses-zombie_idle
+    21300974: Zombie-Poses-zombie_jump
+    21300976: Zombie-Poses-zombie_kick
+    21300978: Zombie-Poses-zombie_skid
+    21300980: Zombie-Poses-zombie_slide
+    21300982: Zombie-Poses-zombie_stand
+    21300984: Zombie-Poses-zombie_swim1
+    21300986: Zombie-Poses-zombie_swim2
+    21300988: Zombie-Poses-zombie_talk
+    21300990: Zombie-Poses-zombie_walk1
+    21300992: Zombie-Poses-zombie_walk2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adventurer-Limbs-arm
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Limbs-body_back
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1137
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Limbs-body_front
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1104
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Limbs-hand
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 99
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Limbs-head
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1538
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Limbs-head_back
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1230
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Limbs-head_focus
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1538
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Limbs-head_hurt
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1539
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Limbs-leg
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 100
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_action1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1118
+        width: 73
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_action2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 323
+        width: 79
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5670103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_back
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 534
+        width: 70
+        height: 98
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.56122446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_cheer1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1221
+        width: 79
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_cheer2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1318
+        width: 79
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.52884614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_climb1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 639
+        width: 64
+        height: 98
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.5408163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_climb2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 224
+        width: 62
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53608245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_duck
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 99
+        width: 69
+        height: 82
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.6707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_fall
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 735
+        width: 80
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_hang
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 616
+        width: 77
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48051947, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_hold1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 308
+        width: 79
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_hold2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 516
+        width: 58
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5689655, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_hurt
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1314
+        width: 80
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5140187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_idle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 70
+        height: 101
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_jump
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1096
+        width: 76
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5140187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_kick
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1424
+        width: 79
+        height: 107
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.5140187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_skid
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 66
+        height: 101
+      alignment: 9
+      pivot: {x: 0.42424244, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_slide
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6179775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_stand
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 277
+        width: 63
+        height: 93
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5913978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_swim1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 839
+        width: 80
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5247525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_swim2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 511
+        width: 78
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5339806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_talk
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2
+        width: 80
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_walk1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 442
+        width: 78
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.5729167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Adventurer-Poses-adventurer_walk2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 409
+        width: 60
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51666665, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1791
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg_castle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1533
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-blockerBody
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1117
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-blockerMad
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 945
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-blockerSad
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1017
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-fishDead
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 475
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-fishSwim1
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 475
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-fishSwim2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 942
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-flyDead
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-flyFly1
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 106
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-flyFly2
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-pokerMad
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1385
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-pokerSad
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1237
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-slimeDead
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1104
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-slimeWalk1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1534
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-slimeWalk2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 961
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-snailShell
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-snailShell_upsidedown
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-snailWalk1
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1298
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-snailWalk2
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 5
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Limbs-arm
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Limbs-body_back
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1071
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Limbs-body_front
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 770
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Limbs-hand
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 99
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Limbs-head
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 99
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Limbs-head_back
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1663
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Limbs-head_focus
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1346
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Limbs-head_hurt
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1346
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Limbs-leg
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 100
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_action1
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 942
+        width: 72
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_action2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1438
+        width: 79
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5851064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_back
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 207
+        width: 75
+        height: 99
+      alignment: 9
+      pivot: {x: 0.49333334, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_cheer1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 79
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_cheer2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 249
+        width: 80
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_climb1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 372
+        width: 64
+        height: 93
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.56989247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_climb2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1126
+        width: 64
+        height: 94
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.5744681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_duck
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 195
+        width: 70
+        height: 88
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_fall
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 507
+        width: 79
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_hang
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 842
+        width: 77
+        height: 98
+      alignment: 9
+      pivot: {x: 0.48051947, y: 0.56122446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_hold1
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 473
+        width: 80
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_hold2
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 18
+        width: 55
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_hurt
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1
+        width: 80
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5729167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_idle
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 105
+        width: 70
+        height: 88
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_jump
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1565
+        width: 79
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5851064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_kick
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 739
+        width: 80
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56122446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_skid
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1342
+        width: 68
+        height: 94
+      alignment: 9
+      pivot: {x: 0.42647058, y: 0.5851064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_slide
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1882
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6962025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_stand
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 291
+        width: 61
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.6321839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_swim1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 91
+        width: 80
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_swim2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 542
+        width: 78
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5729167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_talk
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 285
+        width: 78
+        height: 91
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.6043956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_walk1
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 380
+        width: 77
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4935065, y: 0.6043956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Female-Poses-female_walk2
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 101
+        width: 54
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6179775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_0
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1357
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_1
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 105
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_2
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1357
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_3
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1678
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_4
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1357
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_5
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1678
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_6
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1357
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_7
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 110
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_8
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 109
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_9
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1676
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_coins
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 99
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_gem_blue
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1359
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_gem_green
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1051
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_gem_red
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1051
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_gem_yellow
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1293
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_heartEmpty
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1227
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_heartFull
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1227
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_heartHalf
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1227
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_keyBlue
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 481
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_keyBlue_disabled
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 295
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_keyGreem_disabled
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 295
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_keyGreen
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 295
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_keyRed
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 295
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_keyRed_disabled
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 109
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_keyYellow
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 109
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_keyYellow_disabled
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 109
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_p1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1665
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_p1Alt
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1666
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_p2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1343
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_p2Alt
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1343
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_p3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1343
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_p3Alt
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1666
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HUD-hud_x
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1535
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-bomb
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1331
+        width: 59
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-bombFlash
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1167
+        width: 59
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-bush
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1
+        width: 70
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1290323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-buttonBlue
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 942
+        width: 70
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.61403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-buttonBlue_pressed
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1536
+        width: 70
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2962962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-buttonGreen
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 99
+        width: 70
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.61403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-buttonGreen_pressed
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 4
+        width: 70
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2962962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-buttonRed
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 803
+        width: 70
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.61403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-buttonRed_pressed
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 916
+        width: 70
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2962962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-buttonYellow
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 863
+        width: 70
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.61403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-buttonYellow_pressed
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 887
+        width: 70
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2962962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-cactus
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 862
+        width: 40
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-chain
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1087
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-cloud1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1902
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-cloud2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 942
+        width: 129
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-cloud3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1786
+        width: 129
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-coinBronze
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 942
+        width: 54
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6481481, y: 0.63265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-coinGold
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1865
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-coinSilver
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1865
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-fireball
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 498
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagBlue
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1718
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagBlue2
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1790
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagBlueHanging
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1718
+        width: 29
+        height: 70
+      alignment: 9
+      pivot: {x: 1.2068965, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagGreen
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1905
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagGreen2
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1397
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagGreenHanging
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1285
+        width: 29
+        height: 70
+      alignment: 9
+      pivot: {x: 1.2068965, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagRed
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1397
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagRed2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1469
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagRedHanging
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1287
+        width: 29
+        height: 70
+      alignment: 9
+      pivot: {x: 1.2068965, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagYellow
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1285
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagYellow2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1397
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-flagYellowHanging
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1159
+        width: 29
+        height: 70
+      alignment: 9
+      pivot: {x: 1.2068965, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-gemBlue
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1043
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-gemGreen
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 582
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-gemRed
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 554
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-gemYellow
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 526
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-keyBlue
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 99
+        width: 67
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-keyGreen
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 667
+        width: 67
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-keyRed
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 667
+        width: 67
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-keyYellow
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 481
+        width: 67
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-mushroomBrown
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1070
+        width: 42
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1290323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-mushroomRed
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1084
+        width: 42
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1290323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-particleBrick1a
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 100
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-particleBrick1b
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1859
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-particleBrick2a
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 100
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-particleBrick2b
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1859
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-plant
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1036
+        width: 53
+        height: 45
+      alignment: 9
+      pivot: {x: 0.35849056, y: 0.7777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-plantPurple
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1534
+        width: 58
+        height: 28
+      alignment: 9
+      pivot: {x: 0.51724136, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-rock
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 941
+        width: 70
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.79545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-snowhill
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 709
+        width: 70
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 1.3461539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-spikes
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 106
+        width: 70
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-springboardDown
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 105
+        width: 70
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9459459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-springboardUp
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 942
+        width: 70
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6862745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-star
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1227
+        width: 55
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-switchLeft
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1170
+        width: 68
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.5645161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-switchMid
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 982
+        width: 67
+        height: 67
+      alignment: 9
+      pivot: {x: 0.47761193, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-switchRight
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1541
+        width: 68
+        height: 59
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-weight
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1469
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Items-weightChained
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1602
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Limbs-arm
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 3
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Limbs-body_back
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 830
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Limbs-body_front
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 830
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Limbs-hand
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 99
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Limbs-head
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 922
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Limbs-head_back
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1542
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Limbs-head_focus
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1542
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Limbs-head_hurt
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1233
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Limbs-leg
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1221
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_duck
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1976
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_front
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 472
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_hurt
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 660
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_jump
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1567
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_stand
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 566
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk01
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1855
+        width: 68
+        height: 95
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.48947367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk02
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1758
+        width: 67
+        height: 95
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0.48947367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk03
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 847
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4784946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk04
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 745
+        width: 72
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49479166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk05
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 640
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk06
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 255
+        width: 71
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.5105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk07
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 743
+        width: 71
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk08
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 346
+        width: 68
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5052083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk09
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 449
+        width: 68
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5052083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 239
+        width: 72
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5052083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p1_walk-PNG-p1_walk11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 141
+        width: 70
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49479166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_duck
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1975
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_front
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 660
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_hurt
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 566
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_jump
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1440
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_stand
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 378
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk01
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 562
+        width: 68
+        height: 93
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk02
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 660
+        width: 67
+        height: 92
+      alignment: 9
+      pivot: {x: 0.47761193, y: 0.48913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk03
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 192
+        width: 70
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk04
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 754
+        width: 70
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk05
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 752
+        width: 70
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk06
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 848
+        width: 70
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk07
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1856
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk08
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 657
+        width: 69
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.50537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk09
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1953
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1663
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p2_walk-PNG-p2_walk11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1342
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_duck
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1976
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_front
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 472
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_hurt
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 754
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_jump
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1246
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_stand
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 566
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk01
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1438
+        width: 68
+        height: 94
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.48404256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk02
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1342
+        width: 67
+        height: 94
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0.48404256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk03
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1662
+        width: 72
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48404256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk04
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1759
+        width: 72
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48404256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk05
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 344
+        width: 72
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5052083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk06
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 843
+        width: 71
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk07
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 444
+        width: 71
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.5052083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk08
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 547
+        width: 71
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.5052083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk09
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 116
+        width: 70
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 246
+        width: 69
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.5052083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-p3_walk-PNG-p3_walk11
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 158
+        width: 71
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49295774, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_action1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1423
+        width: 72
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5092593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_action2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_back
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 314
+        width: 71
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_cheer1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 300
+        width: 79
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_cheer2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 415
+        width: 79
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_climb1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 63
+        height: 104
+      alignment: 9
+      pivot: {x: 0.53968257, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_climb2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 834
+        width: 62
+        height: 105
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_duck
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 69
+        height: 87
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.6321839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_fall
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 995
+        width: 79
+        height: 102
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.5392157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_hang
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 830
+        width: 78
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.5045872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_hold1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1104
+        width: 79
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5392157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_hold2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 729
+        width: 57
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5964912, y: 0.5339806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_hurt
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1099
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52884614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_idle
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 734
+        width: 69
+        height: 102
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0.5392157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_jump
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 723
+        width: 78
+        height: 105
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_kick
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1001
+        width: 80
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_skid
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 422
+        width: 71
+        height: 99
+      alignment: 9
+      pivot: {x: 0.46478873, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_slide
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 79
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.5729167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_stand
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 634
+        width: 64
+        height: 99
+      alignment: 9
+      pivot: {x: 0.484375, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_swim1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1208
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_swim2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1205
+        width: 79
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5140187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_talk
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 96
+        width: 78
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_walk1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1015
+        width: 74
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player-Poses-player_walk2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 838
+        width: 63
+        height: 102
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5392157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Limbs-arm
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Limbs-body_back
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 737
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Limbs-body_front
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 676
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Limbs-hand
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 99
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Limbs-head
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1537
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Limbs-head_back
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1536
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Limbs-head_focus
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1536
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Limbs-head_hurt
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1541
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Limbs-leg
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1221
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_action1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1221
+        width: 77
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_action2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1118
+        width: 79
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_back
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2
+        width: 71
+        height: 95
+      alignment: 9
+      pivot: {x: 0.46478873, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_cheer1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 215
+        width: 80
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5670103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_cheer2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 337
+        width: 79
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5729167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_climb1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 993
+        width: 64
+        height: 104
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_climb2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1661
+        width: 65
+        height: 95
+      alignment: 9
+      pivot: {x: 0.44615385, y: 0.55789477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_duck
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1963
+        width: 69
+        height: 84
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.6547619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_fall
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 435
+        width: 79
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.5670103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_hang
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 618
+        width: 76
+        height: 103
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.5339806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_hold1
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 352
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_hold2
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 378
+        width: 57
+        height: 92
+      alignment: 9
+      pivot: {x: 0.61403507, y: 0.59782606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_hurt
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 194
+        width: 80
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_idle
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 148
+        width: 67
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.5729167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_jump
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 198
+        width: 79
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_kick
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 624
+        width: 80
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_skid
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1
+        width: 70
+        height: 96
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.5729167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_slide
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 9
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6179775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_stand
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 116
+        width: 65
+        height: 97
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.5670103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_swim1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 838
+        width: 80
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51960784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_swim2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1427
+        width: 79
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.52884614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_talk
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 80
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5913978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_walk1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 540
+        width: 76
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5670103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Soldier-Poses-soldier_walk2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 125
+        width: 62
+        height: 97
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5670103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-box
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1714
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxAlt
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1787
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxCoin
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1904
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxCoin_disabled
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1715
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxCoinAlt
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1977
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxCoinAlt_disabled
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1591
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxEmpty
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1787
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxExplosive
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1905
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxExplosive_disabled
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1464
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxExplosiveAlt
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1977
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxItem
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1593
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxItem_disabled
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1905
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxItemAlt
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1715
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxItemAlt_disabled
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1788
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-boxWarning
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1977
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-brickWall
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1392
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-bridge
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1223
+        width: 70
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 1.6666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-bridgeLogs
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 989
+        width: 70
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 1.3461539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castle
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1271
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleCenter
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1271
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleCenter_rounded
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1151
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleCliffLeft
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1151
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleCliffLeftAlt
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1079
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleCliffRight
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 963
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleCliffRightAlt
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 891
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleHalf
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1859
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleHalfLeft
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1859
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleHalfMid
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 848
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleHalfRight
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 288
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleHillLeft
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 776
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleHillLeft2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 704
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleHillRight
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 588
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleHillRight2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1464
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleLedgeLeft
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1222
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleLedgeRight
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1222
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleLeft
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1392
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleMid
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1594
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-castleRight
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1716
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirt
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1789
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtCenter
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1905
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtCenter_rounded
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1977
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtCliffLeft
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1466
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtCliffLeftAlt
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1595
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtCliffRight
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1717
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtCliffRightAlt
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1789
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtHalf
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1860
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtHalfLeft
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1861
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtHalfMid
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1035
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtHalfRight
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 660
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtHillLeft
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1905
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtHillLeft2
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1977
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtHillRight
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1394
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtHillRight2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1274
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtLedgeLeft
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 96
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtLedgeRight
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtLeft
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1274
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtMid
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1155
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-dirtRight
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1083
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-door_closedMid
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1155
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-door_closedTop
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 288
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85365856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-door_openMid
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1083
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-door_openTop
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1861
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-fence
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1234
+        width: 70
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5645161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-fenceBroken
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1103
+        width: 70
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5645161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grass
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 967
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassCenter
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 895
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassCenter_rounded
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 967
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassCliffLeft
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 779
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassCliffLeftAlt
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 895
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassCliffRight
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 707
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassCliffRightAlt
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 779
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassHalf
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 288
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassHalfLeft
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1351
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassHalfMid
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1040
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassHalfRight
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1674
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassHillLeft
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 591
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassHillLeft2
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 707
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassHillRight
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 519
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassHillRight2
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 591
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassLedgeLeft
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 99
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassLedgeRight
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 99
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassLeft
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassMid
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 519
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-grassRight
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 331
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-hill_large
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1089
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-hill_largeAlt
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 941
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-hill_small
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 722
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-hill_smallAlt
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 614
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-ladder_mid
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-ladder_top
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 216
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-liquidLava
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 144
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-liquidLavaTop
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1223
+        width: 70
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-liquidLavaTop_mid
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1223
+        width: 70
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-liquidWater
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 33
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-liquidWaterTop
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1667
+        width: 70
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-liquidWaterTop_mid
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1668
+        width: 70
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-lock_blue
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 331
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-lock_green
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-lock_red
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 216
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-lock_yellow
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 144
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-rockHillLeft
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 33
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-rockHillRight
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 34
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-ropeAttached
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1087
+        width: 19
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-ropeHorizontal
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 725
+        width: 70
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-ropeVertical
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1159
+        width: 7
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sand
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 331
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandCenter
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 895
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandCenter_rounded
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 967
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandCliffLeft
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 216
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandCliffLeftAlt
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 144
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandCliffRight
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 34
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandCliffRightAlt
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1466
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandHalf
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1861
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandHalfLeft
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1039
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandHalfMid
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1039
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandHalfRight
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 851
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandHillLeft
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1394
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandHillLeft2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandHillRight
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1279
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandHillRight2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1155
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandLedgeLeft
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 96
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandLedgeRight
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 96
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandLeft
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1083
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandMid
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 968
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sandRight
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1717
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-sign
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1789
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-signExit
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1905
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-signLeft
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1604
+        width: 66
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-signRight
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1470
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snow
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1977
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowCenter
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1905
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowCenter_rounded
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1602
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowCliffLeft
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1717
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowCliffLeftAlt
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1790
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowCliffRight
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1905
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowCliffRightAlt
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1977
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowHalf
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 851
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowHalfLeft
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 663
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowHalfMid
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 663
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowHalfRight
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 475
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowHillLeft
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 896
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowHillLeft2
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 781
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowHillRight
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 709
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowHillRight2
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 595
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowLedgeLeft
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 96
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowLedgeRight
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 96
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowLeft
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 523
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowMid
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 595
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-snowRight
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 523
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stone
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 409
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneCenter
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 337
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneCenter_rounded
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 409
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneCliffLeft
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 223
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneCliffLeftAlt
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 337
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneCliffRight
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 151
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneCliffRightAlt
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 223
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneHalf
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1862
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneHalfLeft
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1674
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneHalfMid
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1862
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneHalfRight
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 853
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneHillLeft2
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 151
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneHillRight2
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 223
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneLedgeLeft
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 99
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneLedgeRight
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 99
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneLeft
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 37
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneMid
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 151
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneRight
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 37
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-stoneWall
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 38
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-tochLit
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1089
+        width: 30
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-tochLit2
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1089
+        width: 30
+        height: 69
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-torch
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1233
+        width: 30
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tiles-window
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1160
+        width: 66
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Limbs-arm
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Limbs-body_back
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 643
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Limbs-body_front
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 610
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Limbs-hand
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 99
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Limbs-head
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1231
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Limbs-head_back
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 99
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Limbs-head_focus
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 929
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Limbs-head_hurt
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 998
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Limbs-leg
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1221
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_action1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1128
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5913978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_action2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1034
+        width: 79
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.59782606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_back
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1952
+        width: 69
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_cheer1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1
+        width: 79
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5913978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_cheer2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 183
+        width: 80
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.59782606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_climb1
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 284
+        width: 64
+        height: 92
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.57608694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_climb2
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1246
+        width: 65
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52307695, y: 0.5531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_duck
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 942
+        width: 68
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.6321839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_fall
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 152
+        width: 80
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_hang
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 987
+        width: 76
+        height: 107
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.5140187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_hold1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 296
+        width: 79
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5339806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_hold2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 942
+        width: 73
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4520548, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_hurt
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1324
+        width: 80
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5445545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_idle
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 467
+        width: 68
+        height: 93
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.5913978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_jump
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 402
+        width: 79
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5339806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_kick
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 848
+        width: 79
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.59782606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_skid
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1018
+        width: 72
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.56122446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_slide
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 80
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.59782606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_stand
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 100
+        width: 63
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_swim1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 92
+        width: 80
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_swim2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 523
+        width: 79
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_talk
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1031
+        width: 78
+        height: 93
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.5913978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_walk1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 645
+        width: 77
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4935065, y: 0.5729167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Zombie-Poses-zombie_walk2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1564
+        width: 62
+        height: 95
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
