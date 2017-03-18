@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f9926717183c8324c8bd66d9108ff11c
+timeCreated: 1489826826
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Deathblood 3D
+  fontNames:
+  - Deathblood 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
